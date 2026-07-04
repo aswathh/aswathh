@@ -212,7 +212,7 @@ Document Q&A RAG app powered by Gemma model served through Groq's blazing-fast A
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aswathh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF4500&text_color=FFA500&border_color=FF4500" height="165"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=aswathh&background=0D1117&border=FF4500&ring=FF4500&fire=FF4500&currStreakNum=FF6B35&sideNums=FFA500&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=9C9C9C&hide_border=true" height="165"/>
+<img src="./profile/streak.svg" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathh&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFA500&border_color=FF4500" height="165"/>
 <img src="https://github-profile-trophy.vercel.app/?username=aswathh&theme=gruvbox&no-frame=true&row=1&column=4" height="165"/>
