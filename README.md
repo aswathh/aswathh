@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=220&section=header&text=Aswath%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20GenAI%20%2F%20ML%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF4500,100:FF8C00&height=220&section=header&text=Aswath%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20GenAI%20%2F%20ML%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2EB872&center=true&vCenter=true&width=700&lines=Building+RAG+pipelines+%F0%9F%9A%80;Designing+LangGraph+Multi-Agent+Systems+%F0%9F%A4%96;Application+Packaging+Dev+%E2%9E%A1%EF%B8%8F+AI%2FML+Engineer;Exploring+AWS+Bedrock+%26+AgentCore+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=FF6B35&center=true&vCenter=true&width=700&lines=Building+RAG+pipelines+%F0%9F%9A%80;Designing+LangGraph+Multi-Agent+Systems+%F0%9F%A4%96;Application+Packaging+Dev+%E2%9E%A1%EF%B8%8F+AI%2FML+Engineer;Exploring+AWS+Bedrock+%26+AgentCore+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=aswathh&label=Profile%20Views&color=2EB872&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/aswathh?label=Followers&style=for-the-badge&color=2EB872" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=aswathh&label=Profile%20Views&color=FF4500&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/aswathh?label=Followers&style=for-the-badge&color=FF6B35" alt="followers"/>
 
 </div>
 
@@ -108,7 +108,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EB872,100:0B6E4F&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF4500,100:FF8C00&height=2&width=100%"/>
 
 ## 🔥 Featured Projects
 
@@ -205,27 +205,27 @@ Document Q&A RAG app powered by Gemma model served through Groq's blazing-fast A
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EB872,100:0B6E4F&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF4500,100:FF8C00&height=2&width=100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aswathh&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=aswathh&background=0D1117&border=FF4500&ring=FF4500&fire=FF4500&currStreakNum=FF6B35&sideNums=FFA500&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=9C9C9C&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aswathh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF4500&text_color=FFA500&border_color=FF4500" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=aswathh&background=0D1117&border=FF4500&ring=FF4500&fire=FF4500&currStreakNum=FF6B35&sideNums=FFA500&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=9C9C9C&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathh&layout=compact&theme=merko&hide_border=true" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=aswathh&theme=merko&no-frame=true&row=1&column=4" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathh&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFA500&border_color=FF4500" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aswathh&theme=gruvbox&no-frame=true&row=1&column=4" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswathh&theme=merko&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswathh&bg_color=0D1117&color=FFA500&line=FF4500&point=FF6B35&area=true&area_color=FF4500&title_color=FF6B35&hide_border=true" width="100%"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EB872,100:0B6E4F&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF4500,100:FF8C00&height=2&width=100%"/>
 
 ## 🧩 LeetCode Stats
 
@@ -247,7 +247,7 @@ Document Q&A RAG app powered by Gemma model served through Groq's blazing-fast A
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EB872,100:0B6E4F&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF4500,100:FF8C00&height=2&width=100%"/>
 
 ## 🤝 Let's Connect
 
@@ -263,4 +263,4 @@ Document Q&A RAG app powered by Gemma model served through Groq's blazing-fast A
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EB872,100:0B6E4F&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF4500,100:FF8C00&height=120&section=footer"/>
