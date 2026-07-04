@@ -212,7 +212,7 @@ Document Q&A RAG app powered by Gemma model served through Groq's blazing-fast A
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aswathh&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=aswathh&theme=merko&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=aswathh&background=0D1117&border=FF4500&ring=FF4500&fire=FF4500&currStreakNum=FF6B35&sideNums=FFA500&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=9C9C9C&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathh&layout=compact&theme=merko&hide_border=true" height="165"/>
 <img src="https://github-profile-trophy.vercel.app/?username=aswathh&theme=merko&no-frame=true&row=1&column=4" height="165"/>
@@ -236,7 +236,12 @@ Document Q&A RAG app powered by Gemma model served through Groq's blazing-fast A
 
 <br/><br/>
 
-<img src="https://leetcode-stats-six.vercel.app/?username=Aswath002&theme=dark" alt="LeetCode Stats"/>
+<a href="https://leetcode.com/Aswath002/" target="_blank">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAswath002&logo=leetcode&logoColor=yellow&color=FF4500" alt="LeetCode Solved"/>
+</a>
+<a href="https://leetcode.com/Aswath002/" target="_blank">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAswath002&logo=leetcode&logoColor=yellow&color=FFA500" alt="LeetCode Ranking"/>
+</a>
 
 </div>
 
