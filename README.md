@@ -17,14 +17,14 @@
 
 ## 🧑‍🚀 About Me
 
-```yaml
-name: Aswath Kumar
-role: Application Packaging Developer @ TCS  ➜  Transitioning into GenAI / ML Engineering
-focus: Agentic Workflows • RAG Pipelines • LLM Apps • MLOps
-currently_building: Enterprise Document Intelligence, AI Code Review Agent, AWS Bedrock AgentCore projects
-currently_learning: Fine-tuning (LoRA/QLoRA), MCP (Model Context Protocol), AgentCore
-fun_fact: Ships agentic AI systems by day, tunes them in Tanglish by night 😄
-```
+<table>
+<tr><td><b>👤 Name</b></td><td>Aswath Kumar</td></tr>
+<tr><td><b>💼 Role</b></td><td>Application Packaging Developer @ TCS &nbsp;➜&nbsp; Transitioning into GenAI / ML Engineering</td></tr>
+<tr><td><b>🎯 Focus</b></td><td>Agentic Workflows • RAG Pipelines • LLM Apps • MLOps</td></tr>
+<tr><td><b>🏗️ Currently Building</b></td><td>Enterprise Document Intelligence, AI Code Review Agent, AWS Bedrock AgentCore projects</td></tr>
+<tr><td><b>📖 Currently Learning</b></td><td>Fine-tuning (LoRA/QLoRA), MCP (Model Context Protocol), AgentCore</td></tr>
+<tr><td><b>😄 Fun Fact</b></td><td>Ships agentic AI systems by day, tunes them in Tanglish by night</td></tr>
+</table>
 
 <br/>
 
@@ -212,7 +212,7 @@ Document Q&A RAG app powered by Gemma model served through Groq's blazing-fast A
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aswathh&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aswathh&theme=merko&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=aswathh&theme=merko&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathh&layout=compact&theme=merko&hide_border=true" height="165"/>
 <img src="https://github-profile-trophy.vercel.app/?username=aswathh&theme=merko&no-frame=true&row=1&column=4" height="165"/>
@@ -236,7 +236,7 @@ Document Q&A RAG app powered by Gemma model served through Groq's blazing-fast A
 
 <br/><br/>
 
-[![LeetCode Stats](https://leetcode-stats-card.vercel.app/?username=Aswath002&theme=dark&border_color=2EB872)](https://leetcode.com/u/Aswath002/)
+<img src="https://leetcode-stats-six.vercel.app/?username=Aswath002&theme=dark" alt="LeetCode Stats"/>
 
 </div>
 
