@@ -212,7 +212,7 @@ Document Q&A RAG app powered by Gemma model served through Groq's blazing-fast A
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com/?user=aswathh&background=0D1117&border=FF4500&ring=FF4500&fire=FF4500&currStreakNum=FF6B35&sideNums=FFA500&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=9C9C9C&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=aswathh&background=0D1117&border=FF4500&ring=FF4500&fire=FF4500&currStreakNum=FF6B35&sideNums=FFA500&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=9C9C9C&hide_border=true" height="165"/>
 
 
 <br/><br/>
