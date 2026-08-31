@@ -24,11 +24,11 @@
 ## 🐺 House Words
 
 <table>
-<tr><td><b>🏰 True Name</b></td><td>Aswath Kumar</td></tr>
-<tr><td><b>⚔️ Current Post</b></td><td>Sworn Application Packaging Developer @ TCS &nbsp;➜&nbsp; Claiming the Throne of GenAI / ML Engineering</td></tr>
-<tr><td><b>🔥 House Sigil</b></td><td>Agentic Workflows • RAG Pipelines • LLM Apps • MLOps</td></tr>
-<tr><td><b>🗡️ Forging in the Smithy</b></td><td>Enterprise Document Intelligence, an AI Code Review Agent, AWS Bedrock AgentCore campaigns</td></tr>
-<tr><td><b>📜 Maester's Study</b></td><td>Fine-tuning (LoRA/QLoRA), the Model Context Protocol, AgentCore</td></tr>
+<tr><td><b>🏰 Name</b></td><td>Aswath Kumar</td></tr>
+<tr><td><b>⚔️ Role</b></td><td>Sworn Application Packaging Developer @ TCS &nbsp;➜&nbsp; Claiming the Throne of GenAI / ML Engineering</td></tr>
+<tr><td><b>🔥 Focus</b></td><td>Agentic Workflows • RAG Pipelines • LLM Apps • MLOps</td></tr>
+<tr><td><b>🗡️ Currently Building</b></td><td>Enterprise Document Intelligence, an AI Code Review Agent, AWS Bedrock AgentCore campaigns</td></tr>
+<tr><td><b>📜 Currently Learning</b></td><td>Fine-tuning (LoRA/QLoRA), the Model Context Protocol, AgentCore</td></tr>
 <tr><td><b>🐦 Raven's Note</b></td><td>Ships agentic AI armies by day, tunes them in Tanglish by candlelight</td></tr>
 </table>
 
