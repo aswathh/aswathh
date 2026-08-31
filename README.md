@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:8B0000,100:C41E3A&height=220&section=header&text=Aswath%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20GenAI%20Engineer%20Bends%20the%20Knee%20to%20No%20One&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:8B0000,100:C41E3A&height=220&section=header&text=Aswath%20Kumar&fontSize=55&fontColor=ffffff&fontFamily=Cinzel&animation=fadeIn&fontAlignY=38&desc=A%20GenAI%20Engineer%20Bends%20the%20Knee%20to%20No%20One&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3500&pause=1000&color=C41E3A&center=true&vCenter=true&width=750&lines=%22The+RAG+Pipeline+never+sleeps%22+%F0%9F%90%BA;Forging+LangGraph+Multi-Agent+Legions+%E2%9A%94%EF%B8%8F;From+the+Wall+of+Packaging+to+the+Throne+of+AI%2FML;Wielding+AWS+Bedrock+%26+AgentCore+like+Valyrian+Steel" alt="Typing SVG" />
@@ -21,20 +21,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,50:8B0000,100:C41E3A&height=2&width=100%"/>
 
-## 🐺 House Words
+##  About Me
 
 <table>
-<tr><td><b>🏰 Name</b></td><td>Aswath Kumar</td></tr>
-<tr><td><b>⚔️ Role</b></td><td>Sworn Application Packaging Developer @ TCS &nbsp;➜&nbsp; Claiming the Throne of GenAI / ML Engineering</td></tr>
-<tr><td><b>🔥 Focus</b></td><td>Agentic Workflows • RAG Pipelines • LLM Apps • MLOps</td></tr>
-<tr><td><b>🗡️ Currently Building</b></td><td>Enterprise Document Intelligence, an AI Code Review Agent, AWS Bedrock AgentCore campaigns</td></tr>
-<tr><td><b>📜 Currently Learning</b></td><td>Fine-tuning (LoRA/QLoRA), the Model Context Protocol, AgentCore</td></tr>
-<tr><td><b>🐦 Raven's Note</b></td><td>Ships agentic AI armies by day, tunes them in Tanglish by candlelight</td></tr>
+<tr><td><b>👤 Name</b></td><td>Aswath Kumar</td></tr>
+<tr><td><b>💼 Role</b></td><td>Application Packaging Developer @ TCS &nbsp;➜&nbsp; Transitioning into GenAI / ML Engineering</td></tr>
+<tr><td><b>🎯 Focus</b></td><td>Agentic Workflows • RAG Pipelines • LLM Apps • MLOps</td></tr>
+<tr><td><b>🏗️ Currently Building</b></td><td>Enterprise Document Intelligence, AI Code Review Agent, AWS Bedrock AgentCore projects</td></tr>
+<tr><td><b>📖 Currently Learning</b></td><td>Fine-tuning (LoRA/QLoRA), MCP (Model Context Protocol), AgentCore</td></tr>
+<tr><td><b>😄 Fun Fact</b></td><td>Ships agentic AI systems by day, tunes them in Tanglish by night</td></tr>
 </table>
-
-<div align="center">
-<i>"A packaging dev knows nothing." — Old Nan, probably</i>
-</div>
 
 <br/>
 
