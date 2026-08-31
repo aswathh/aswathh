@@ -15,7 +15,7 @@
 
 <br/>
 
-## 🧑‍🚀 About Me
+##  About Me
 
 <table>
 <tr><td><b>👤 Name</b></td><td>Aswath Kumar</td></tr>
