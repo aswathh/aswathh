@@ -1,19 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:8B0000,100:C41E3A&height=220&section=header&text=Aswath%20Kumar&fontSize=55&fontColor=ffffff&fontFamily=Cinzel&animation=fadeIn&fontAlignY=38&desc=A%20GenAI%20Engineer%20Bends%20the%20Knee%20to%20No%20One&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:8B0000,100:C41E3A&height=220&section=header&text=Aswath%20Kumar&fontSize=55&fontColor=ffffff&fontFamily=Cinzel&animation=fadeIn&fontAlignY=38&desc=Aspiring%20GenAI%20%2F%20ML%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3500&pause=1000&color=C41E3A&center=true&vCenter=true&width=750&lines=%22The+RAG+Pipeline+never+sleeps%22+%F0%9F%90%BA;Forging+LangGraph+Multi-Agent+Legions+%E2%9A%94%EF%B8%8F;From+the+Wall+of+Packaging+to+the+Throne+of+AI%2FML;Wielding+AWS+Bedrock+%26+AgentCore+like+Valyrian+Steel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3000&pause=900&color=C41E3A&center=true&vCenter=true&width=700&lines=Building+RAG+pipelines+%F0%9F%9A%80;Designing+LangGraph+Multi-Agent+Systems+%F0%9F%A4%96;Application+Packaging+Dev+%E2%9E%A1%EF%B8%8F+AI%2FML+Engineer;Exploring+AWS+Bedrock+%26+AgentCore+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=aswathh&label=Ravens%20Received&color=8B0000&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/aswathh?label=Sworn%20Followers&style=for-the-badge&color=C41E3A" alt="followers"/>
-
-<br/><br/>
-
-*"When the GenAI models fall, the Wall falls. When the Wall falls..."*
+<img src="https://komarev.com/ghpvc/?username=aswathh&label=Profile%20Views&color=8B0000&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/aswathh?label=Followers&style=for-the-badge&color=C41E3A" alt="followers"/>
 
 </div>
 
@@ -21,7 +17,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,50:8B0000,100:C41E3A&height=2&width=100%"/>
 
-##  About Me
+## About Me
 
 <table>
 <tr><td><b>👤 Name</b></td><td>Aswath Kumar</td></tr>
@@ -36,7 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,50:8B0000,100:C41E3A&height=2&width=100%"/>
 
-## ⚔️ The Armory (Tech Arsenal)
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -44,7 +40,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**🗡️ Valyrian Steel (Languages & Core)**
+**Languages & Core**
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a" height="32"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white&labelColor=1a1a1a" height="32"/>
@@ -54,7 +50,7 @@
 </td>
 <td valign="top" width="50%">
 
-**🐉 Dragonfire (GenAI / LLM Stack)**
+**GenAI / LLM Stack**
 <br/><br/>
 <img src="https://img.shields.io/badge/LangChain-8B0000?style=flat-square&logo=langchain&logoColor=white&labelColor=1a1a1a" height="32"/>
 <img src="https://img.shields.io/badge/LangGraph-8B0000?style=flat-square&labelColor=1a1a1a" height="32"/>
@@ -67,7 +63,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**🧠 Maester's Chain (ML / Deep Learning)**
+**ML / Deep Learning**
 <br/><br/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1a1a1a" height="32"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=1a1a1a" height="32"/>
@@ -78,7 +74,7 @@
 </td>
 <td valign="top" width="50%">
 
-**🏹 The Small Council (Vector DB & MLOps)**
+**Vector DB & MLOps**
 <br/><br/>
 <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&labelColor=1a1a1a" height="32"/>
 <img src="https://img.shields.io/badge/ChromaDB-2C2C2C?style=flat-square&labelColor=1a1a1a" height="32"/>
@@ -91,7 +87,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**🏰 The Seven Kingdoms (Cloud & Deployment)**
+**Cloud & Deployment**
 <br/><br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=1a1a1a" height="32"/>
 <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=1a1a1a" height="32"/>
@@ -102,7 +98,7 @@
 </td>
 <td valign="top" width="50%">
 
-**🛡️ The Night's Watch (Enterprise Packaging & Automation)**
+**Enterprise Packaging & Automation**
 <br/><br/>
 <img src="https://img.shields.io/badge/SCCM-0078D4?style=flat-square&labelColor=1a1a1a" height="32"/>
 <img src="https://img.shields.io/badge/PSADT-5391FE?style=flat-square&labelColor=1a1a1a" height="32"/>
@@ -118,7 +114,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,50:8B0000,100:C41E3A&height=2&width=100%"/>
 
-## 🐉 Campaigns Waged (Featured Projects)
+## 🔥 Featured Projects
 
 <div align="center">
 
@@ -127,14 +123,14 @@
 <td width="50%">
 
 ### 🤖 [AI Code Review Agent](https://github.com/aswathh/AI-Code-Review-Agent)
-*"Every codebase deserves the King's justice."* A production-ready LLM-powered analyzer running 4 specialized tools — bug detection, security vulnerabilities & more.
+Production-ready LLM-powered code analyzer running 4 specialized AI tools — bug detection, security vulnerabilities & more.
 <br/>`Python` `LLM` `Jupyter`
 
 </td>
 <td width="50%">
 
 ### 📚 [Enterprise RAG System](https://github.com/aswathh/Enterprise_Rag_System)
-A raven network for your documents — LangChain + FAISS/ChromaDB powering semantic search across entire archives.
+Document Q&A pipeline with LangChain + FAISS/ChromaDB for semantic search across large document sets.
 <br/>`LangChain` `RAG` `FAISS`
 
 </td>
@@ -143,14 +139,14 @@ A raven network for your documents — LangChain + FAISS/ChromaDB powering seman
 <td width="50%">
 
 ### 🩹 [Self-Healing RAG System](https://github.com/aswathh/self_healing_RAG_system)
-Even Jaime lost a hand and adapted. A self-correcting retrieval architecture that detects and repairs weak/irrelevant retrievals automatically.
+Self-correcting retrieval architecture that detects and repairs weak/irrelevant retrievals automatically.
 <br/>`Python` `RAG`
 
 </td>
 <td width="50%">
 
 ### 🧩 [Multi-Agent AI System](https://github.com/aswathh/Production-Level_Multi-Agent_AI-System)
-A council of agents, DVC-sworn to reproducibility, orchestrated in production.
+Production-level multi-agent orchestration with DVC-managed pipelines for reproducibility.
 <br/>`LangGraph` `DVC`
 
 </td>
@@ -159,14 +155,14 @@ A council of agents, DVC-sworn to reproducibility, orchestrated in production.
 <td width="50%">
 
 ### 🕸️ [LangGraph Studio](https://github.com/aswathh/LangGraph-_Studio)
-The map room — agentic workflow experiments and state-machine designs built with LangGraph.
+Agentic workflow experiments and state-machine designs built using LangGraph.
 <br/>`LangGraph` `Agents`
 
 </td>
 <td width="50%">
 
 ### 🧠 [LLM + Pinecone Project](https://github.com/aswathh/LLM_Langchain_Project_Using_Pinecone)
-An LLM application powered by LangChain, with Pinecone standing guard as the vector store.
+LLM application powered by LangChain with Pinecone as the vector store backend.
 <br/>`LangChain` `Pinecone`
 
 </td>
@@ -175,14 +171,14 @@ An LLM application powered by LangChain, with Pinecone standing guard as the vec
 <td width="50%">
 
 ### 🔌 [MCP Exploration](https://github.com/aswathh/MCP-Model_Context_Protocol)
-Hands-on exploration of the Model Context Protocol — a common tongue for agent and tool alike.
+Hands-on exploration of Model Context Protocol for standardized AI agent ↔ tool communication.
 <br/>`MCP` `Agents`
 
 </td>
 <td width="50%">
 
 ### ☁️ [AWS Bedrock](https://github.com/aswathh/AWS_Bedrock)
-Foundation Models, Knowledge Bases, Guardrails, Agents & AgentCore — a full campaign through Bedrock.
+Foundation Models, Knowledge Bases, Guardrails, Agents & AgentCore — hands-on Bedrock curriculum.
 <br/>`AWS` `Bedrock`
 
 </td>
@@ -191,14 +187,14 @@ Foundation Models, Knowledge Bases, Guardrails, Agents & AgentCore — a full ca
 <td width="50%">
 
 ### 🩺 [Kidney Disease Classification](https://github.com/aswathh/Kidney-Diseease-Classification-MLflow-DVC)
-An end-to-end ML classification pipeline with MLflow experiment tracking + DVC versioning.
+End-to-end ML classification pipeline with MLflow experiment tracking + DVC versioning.
 <br/>`MLflow` `DVC`
 
 </td>
 <td width="50%">
 
 ### 💬 [RAG App — Gemma + Groq](https://github.com/aswathh/Document_QandA_RAG_App_With_Gemma_and_GroqAPI)
-A document Q&A RAG app powered by Gemma, riding into battle on Groq's blazing-fast API.
+Document Q&A RAG app powered by Gemma model served through Groq's blazing-fast API.
 <br/>`RAG` `Groq` `Gemma`
 
 </td>
@@ -208,14 +204,14 @@ A document Q&A RAG app powered by Gemma, riding into battle on Groq's blazing-fa
 </div>
 
 <p align="center">
-📁 <a href="https://github.com/aswathh?tab=repositories"><b>See the full archive of the Citadel →</b></a> (EDA: Zomato, Netflix Clustering, Black Friday Sales · ML/Feature Engineering practice · n8n agent workflows)
+📁 <a href="https://github.com/aswathh?tab=repositories"><b>View all repositories →</b></a> (EDA: Zomato, Netflix Clustering, Black Friday Sales · ML/Feature Engineering practice · n8n agent workflows)
 </p>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,50:8B0000,100:C41E3A&height=2&width=100%"/>
 
-## 📜 The Citadel's Ledgers (GitHub Analytics)
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -231,7 +227,7 @@ A document Q&A RAG app powered by Gemma, riding into battle on Groq's blazing-fa
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,50:8B0000,100:C41E3A&height=2&width=100%"/>
 
-## 🎯 Trial by Combat (LeetCode Stats)
+## 🧩 LeetCode Stats
 
 <div align="center">
 
@@ -241,10 +237,10 @@ A document Q&A RAG app powered by Gemma, riding into battle on Groq's blazing-fa
 <br/><br/>
 
 <a href="https://leetcode.com/Aswath002/" target="_blank">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Battles%20Won&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAswath002&logo=leetcode&logoColor=yellow&color=8B0000" alt="LeetCode Solved"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAswath002&logo=leetcode&logoColor=yellow&color=8B0000" alt="LeetCode Solved"/>
 </a>
 <a href="https://leetcode.com/Aswath002/" target="_blank">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Standing%20in%20the%20Realm&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAswath002&logo=leetcode&logoColor=yellow&color=C41E3A" alt="LeetCode Ranking"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAswath002&logo=leetcode&logoColor=yellow&color=C41E3A" alt="LeetCode Ranking"/>
 </a>
 
 </div>
@@ -253,7 +249,7 @@ A document Q&A RAG app powered by Gemma, riding into battle on Groq's blazing-fa
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,50:8B0000,100:C41E3A&height=2&width=100%"/>
 
-## 🐦 Send a Raven
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -263,7 +259,7 @@ A document Q&A RAG app powered by Gemma, riding into battle on Groq's blazing-fa
 
 <br/><br/>
 
-<i>🔥 "Fire and Code." — House Aswath, from the Wall of Packaging to the Throne of Agentic AI.</i>
+<i>⚡ From Application Packaging to Agentic AI — building in public, one RAG pipeline at a time.</i>
 
 </div>
 
