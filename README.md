@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:8B0000,100:C41E3A&height=220&section=header&text=Aswath%20Kumar&fontSize=55&fontColor=ffffff&fontFamily=Cinzel&animation=fadeIn&fontAlignY=38&desc=Aspiring%20GenAI%20%2F%20ML%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="assets/dragon-banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3000&pause=900&color=C41E3A&center=true&vCenter=true&width=700&lines=Building+RAG+pipelines+%F0%9F%9A%80;Designing+LangGraph+Multi-Agent+Systems+%F0%9F%A4%96;Application+Packaging+Dev+%E2%9E%A1%EF%B8%8F+AI%2FML+Engineer;Exploring+AWS+Bedrock+%26+AgentCore+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
