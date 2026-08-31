@@ -214,10 +214,17 @@ Document Q&A RAG app powered by Gemma model served through Groq's blazing-fast A
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aswathh&background=0D1117&border=FF4500&ring=FF4500&fire=FF4500&currStreakNum=FF6B35&sideNums=FFA500&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=9C9C9C&hide_border=true" height="165"/>
 
+<!--
+  Activity graph temporarily removed — the shared public instance at
+  github-readme-activity-graph.vercel.app was returning a broken image
+  (rate limiting / downtime on the free shared deployment).
 
-<br/><br/>
+  To restore it: fork https://github.com/Ashutosh00710/github-readme-activity-graph,
+  deploy your own instance on Vercel, then uncomment the line below and
+  replace YOUR-NEW-DOMAIN with your deployment's domain.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswathh&bg_color=0D1117&color=FFA500&line=FF4500&point=FF6B35&area=true&area_color=FF4500&title_color=FF6B35&hide_border=true" width="100%"/>
+  <img src="https://YOUR-NEW-DOMAIN.vercel.app/graph?username=aswathh&bg_color=0D1117&color=FFA500&line=FF4500&point=FF6B35&area=true&area_color=FF4500&title_color=FF6B35&hide_border=true" width="100%"/>
+-->
 
 </div>
 
