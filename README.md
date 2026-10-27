@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF4500,100:FF8C00&height=220&section=header&text=Aswath%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20%26%20Model%20Optimization&descAlignY=58&descSize=20" width="100%"/>
+<a href="https://github.com/aswathh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2500&pause=1500&color=FF4500&center=true&vCenter=true&width=800&height=90&lines=Aswath+Kumar" alt="Aswath Kumar" />
+</a>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-AI%20CoE%20Labs%20%7C%20TCS%20Kochi-FF4500?style=for-the-badge&labelColor=8B0000" alt="role"/>
+<img src="https://img.shields.io/badge/Project-INTEL%20%7C%20OpenVINO-FF8C00?style=for-the-badge&labelColor=8B0000" alt="project"/>
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=FF6B35&center=true&vCenter=true&width=800&lines=Optimizing+%26+serving+models+with+OpenVINO+%E2%9A%A1;Building+RAG+pipelines+%F0%9F%9A%80;Designing+LangGraph+Multi-Agent+Systems+%F0%9F%A4%96;AI+Engineer+%40+AI+CoE+Labs%2C+TCS+Kochi" alt="Typing SVG" />
@@ -134,7 +141,7 @@ At **AI CoE Labs, TCS Kochi**, I work on **INTEL**, where we focus on making AI 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF4500,100:FF8C00&height=2&width=100%"/>
+<hr/>
 
 ## 🔥 Featured Projects
 
@@ -231,7 +238,7 @@ End-to-end ML classification pipeline with MLflow experiment tracking + DVC vers
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF4500,100:FF8C00&height=2&width=100%"/>
+<hr/>
 
 ## 📊 GitHub Analytics
 
@@ -243,7 +250,7 @@ End-to-end ML classification pipeline with MLflow experiment tracking + DVC vers
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF4500,100:FF8C00&height=2&width=100%"/>
+<hr/>
 
 ## 🧩 LeetCode Stats
 
@@ -256,7 +263,7 @@ End-to-end ML classification pipeline with MLflow experiment tracking + DVC vers
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF4500,100:FF8C00&height=2&width=100%"/>
+<hr/>
 
 ## 🤝 Let's Connect
 
@@ -272,4 +279,6 @@ End-to-end ML classification pipeline with MLflow experiment tracking + DVC vers
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF4500,100:FF8C00&height=120&section=footer"/>
+<a href="https://github.com/aswathh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=FF8C00&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+%E2%9C%A8;Let%27s+build+something+great+together" alt="footer" />
+</a>
