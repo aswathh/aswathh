@@ -1,24 +1,24 @@
 <div align="center">
 
 <a href="https://github.com/aswathh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=2500&pause=2000&color=FFFFFF&background=8B0000&center=true&vCenter=true&width=900&height=100&lines=Aswath+Kumar" alt="Aswath Kumar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=2500&pause=2000&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=900&height=100&lines=Aswath+Kumar" alt="Aswath Kumar" />
 </a>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FFFFFF&background=FF4500&center=true&vCenter=true&width=900&height=56&lines=AI+Engineer+%7C+Model+Optimization+%26+Inference+%E2%9A%A1;OpenVINO+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+Multi-Agent+Systems+%F0%9F%A4%96;Making+AI+faster%2C+smaller+and+production-ready+%F0%9F%9A%80" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FFFFFF&background=0071C5&center=true&vCenter=true&width=900&height=56&lines=AI+Engineer+%7C+Model+Optimization+%26+Inference+%E2%9A%A1;OpenVINO+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+Multi-Agent+Systems+%F0%9F%A4%96;Making+AI+faster%2C+smaller+and+production-ready+%F0%9F%9A%80" alt="tagline" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=1A0A0A&background=FF8C00&center=true&vCenter=true&width=900&height=36&lines=AI+CoE+Labs+%C2%B7+TCS+Kochi+%C2%B7+Project+INTEL" alt="strip" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=0B1F3A&background=00C2D1&center=true&vCenter=true&width=900&height=36&lines=AI+CoE+Labs+%C2%B7+TCS+Kochi+%C2%B7+Project+INTEL" alt="strip" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20Engineer-AI%20CoE%20Labs%20%7C%20TCS%20Kochi-FF4500?style=for-the-badge&labelColor=8B0000" alt="role"/>
-<img src="https://img.shields.io/badge/Project-INTEL%20%7C%20OpenVINO-FF8C00?style=for-the-badge&labelColor=8B0000" alt="project"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-AI%20CoE%20Labs%20%7C%20TCS%20Kochi-0071C5?style=for-the-badge&labelColor=1E3A8A" alt="role"/>
+<img src="https://img.shields.io/badge/Project-INTEL%20%7C%20OpenVINO-00C2D1?style=for-the-badge&labelColor=1E3A8A" alt="project"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/aswath-kumar-aba077225"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/aswathh?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
-<img src="https://komarev.com/ghpvc/?username=aswathh&label=Profile%20Views&color=FF4500&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/aswathh?label=Followers&style=for-the-badge&color=FF6B35" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=aswathh&label=Profile%20Views&color=0071C5&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/aswathh?label=Followers&style=for-the-badge&color=00C2D1" alt="followers"/>
 
 </div>
 
@@ -53,8 +53,8 @@ flowchart LR
     D --> E[Deploy<br/>Optimized Inference]
     D -.->|iterate| C
 
-    classDef s fill:#FF4500,stroke:#8B0000,color:#fff,stroke-width:2px;
-    classDef e fill:#FF8C00,stroke:#8B0000,color:#000,stroke-width:2px;
+    classDef s fill:#0071C5,stroke:#0B1F3A,color:#fff,stroke-width:2px;
+    classDef e fill:#00C2D1,stroke:#0B1F3A,color:#000,stroke-width:2px;
     class A,B,C,D s;
     class E e;
 ```
@@ -81,7 +81,7 @@ flowchart LR
 <br/><br/>
 <img src="https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=20232a" height="28"/>
 <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&labelColor=20232a" height="28"/>
-<img src="https://img.shields.io/badge/Quantization-FF6F00?style=for-the-badge&labelColor=20232a" height="28"/>
+<img src="https://img.shields.io/badge/Quantization-7C5CFF?style=for-the-badge&labelColor=20232a" height="28"/>
 <img src="https://img.shields.io/badge/Benchmarking-4267B2?style=for-the-badge&labelColor=20232a" height="28"/>
 
 </td>
@@ -91,7 +91,7 @@ flowchart LR
 <br/><br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=20232a" height="28"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&labelColor=20232a" height="28"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&labelColor=20232a" height="28"/>
+<img src="https://img.shields.io/badge/RAG-7C5CFF?style=for-the-badge&labelColor=20232a" height="28"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=20232a" height="28"/>
 <img src="https://img.shields.io/badge/MCP-0B6E4F?style=for-the-badge&labelColor=20232a" height="28"/>
 
@@ -214,8 +214,8 @@ flowchart LR
     B --> C[AI Engineer<br/>AI CoE Labs, TCS Kochi]
     C --> D[Next: Senior AI Engineer<br/>Optimization · GenAI · Agents]
 
-    classDef p fill:#8B0000,stroke:#FF4500,color:#fff,stroke-width:2px;
-    classDef n fill:#FF8C00,stroke:#8B0000,color:#000,stroke-width:2px;
+    classDef p fill:#1E3A8A,stroke:#0071C5,color:#fff,stroke-width:2px;
+    classDef n fill:#00C2D1,stroke:#0B1F3A,color:#000,stroke-width:2px;
     class A,B,C p;
     class D n;
 ```
@@ -226,7 +226,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=aswathh&background=0D1117&border=FF4500&ring=FF4500&fire=FF4500&currStreakNum=FF6B35&sideNums=FFA500&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=9C9C9C&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=aswathh&background=0D1117&border=0071C5&ring=0071C5&fire=0071C5&currStreakNum=00C2D1&sideNums=7DD3FC&currStreakLabel=00C2D1&sideLabels=00C2D1&dates=9C9C9C&hide_border=true" height="165"/>
 
 </div>
 
@@ -257,10 +257,10 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=1A0A0A&background=FF8C00&center=true&vCenter=true&width=900&height=36&lines=Thanks+for+visiting+%E2%9C%A8" alt="strip" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=0B1F3A&background=00C2D1&center=true&vCenter=true&width=900&height=36&lines=Thanks+for+visiting+%E2%9C%A8" alt="strip" />
 <br/>
 <a href="https://github.com/aswathh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1500&color=FFFFFF&background=8B0000&center=true&vCenter=true&width=900&height=70&lines=Let%27s+build+something+great+together+%F0%9F%9A%80;Open+to+collaborate+on+AI+%26+optimization" alt="footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1500&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=900&height=70&lines=Let%27s+build+something+great+together+%F0%9F%9A%80;Open+to+collaborate+on+AI+%26+optimization" alt="footer" />
 </a>
 
 </div>
