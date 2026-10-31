@@ -1,10 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/aswathh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2500&pause=1500&color=FF4500&center=true&vCenter=true&width=800&height=90&lines=Aswath+Kumar" alt="Aswath Kumar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=2500&pause=2000&color=FFFFFF&background=8B0000&center=true&vCenter=true&width=900&height=100&lines=Aswath+Kumar" alt="Aswath Kumar" />
 </a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FF8C00&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Model+Optimization+%26+Inference+%E2%9A%A1;OpenVINO+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+Multi-Agent+Systems+%F0%9F%A4%96;Making+AI+faster%2C+smaller+and+production-ready+%F0%9F%9A%80" alt="tagline" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FFFFFF&background=FF4500&center=true&vCenter=true&width=900&height=56&lines=AI+Engineer+%7C+Model+Optimization+%26+Inference+%E2%9A%A1;OpenVINO+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+Multi-Agent+Systems+%F0%9F%A4%96;Making+AI+faster%2C+smaller+and+production-ready+%F0%9F%9A%80" alt="tagline" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=1A0A0A&background=FF8C00&center=true&vCenter=true&width=900&height=36&lines=AI+CoE+Labs+%C2%B7+TCS+Kochi+%C2%B7+Project+INTEL" alt="strip" />
 
 <br/>
 
@@ -255,8 +257,10 @@ flowchart LR
 
 <br/><br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=1A0A0A&background=FF8C00&center=true&vCenter=true&width=900&height=36&lines=Thanks+for+visiting+%E2%9C%A8" alt="strip" />
+<br/>
 <a href="https://github.com/aswathh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=FF8C00&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+%E2%9C%A8;Let%27s+build+something+great+together" alt="footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1500&color=FFFFFF&background=8B0000&center=true&vCenter=true&width=900&height=70&lines=Let%27s+build+something+great+together+%F0%9F%9A%80;Open+to+collaborate+on+AI+%26+optimization" alt="footer" />
 </a>
 
 </div>
